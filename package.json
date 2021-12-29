@@ -1,0 +1,31 @@
+{
+  "author":{
+    "name": "Roland Cloos"
+  },
+  "name": "cryptobot_ig_dot_com",
+  "description": "CryptoBot for automatik trading on IG Markets",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rolandcloos/cryptobot_ig.git"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "crypto",
+    "bot",
+    "trading",
+    "ig",
+    "markets",
+    "trade",
+    "automatic",
+    "roland",
+    "cloos"
+  ],
+
+
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  },
+  "type": "module"
+}
